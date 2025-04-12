@@ -4,21 +4,21 @@
 
 ## 🙋 About Me
 
-- 12+ years of software development experience, with 6+ years in a leadership or management role
-- Strong communication and leadership skills, with experience leading and mentoring engineering teams.
+- 12+ years software development experience, with 6+ years in leadership and management roles
+- Strong communication skills, with experience building, directing, and mentoring engineering teams.
 - Personnel (~15 employees) and budget management ($2M)
 - Proven, hands-on experience with development, CI, and deployment of production workloads in AWS.
 
 ## 💻 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo)&nbsp;
-![Node](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node)&nbsp;
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![XState / Finite State Machines](https://img.shields.io/badge/-XState-05122A?style=flat&logo=xstate)&nbsp;
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails)&nbsp;
-![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)&nbsp;
-![Neovim](https://img.shields.io/badge/-NeoVIM-05122A?style=flat&logo=neovim&logoColor=007ACC)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 
 ## 💬 Let's Connect
 
@@ -53,4 +53,3 @@ I'm always eager to connect with fellow developers, collaborate on exciting proj
 -->
 
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
-
