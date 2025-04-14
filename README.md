@@ -2,6 +2,8 @@
 
 I’m Devan, a passionate leader, developer, and designer based in sunny Orlando, Florida.
 
+NOTE: As of April 2025, I am seeking employment. Please [reach out via email](mailto:devan@devanb.us) if you are in need of a software engineering leader or upper-level (staff, principal) engineer!
+
 ## 🙋 About Me
 
 - 12+ years software development experience, with 7+ years in leadership and management roles
