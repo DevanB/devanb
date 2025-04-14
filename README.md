@@ -1,26 +1,33 @@
 # Hi there 👋
 
-### I’m Devan, a passionate leader, developer & designer based in sunny Orlando, Florida
+I’m Devan, a passionate leader, developer, and designer based in sunny Orlando, Florida.
 
 ## 🙋 About Me
 
-- 12+ years software development experience, with 6+ years in leadership and management roles
-- Strong communication skills, with experience building, directing, and mentoring engineering teams.
-- Personnel (~15 employees) and budget management ($2M)
-- Proven, hands-on experience with development, CI, and deployment of production workloads in AWS.
+- 12+ years software development experience, with 7+ years in leadership and management roles
+- Strong communication skills, with experience hiring, directing, and mentoring international distributed engineering teams
+- Experience overseeing managers, leaders, and individual contributors as well as budgets up-to $2 million.
+- Husband, cat dad, beekeeper, tea snob, private pilot, HAM radio operator, language enthusiast
 
-## 💻 Tech Stack
+## 💻 Preferred Technologies
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![XState / Finite State Machines](https://img.shields.io/badge/-XState-05122A?style=flat&logo=xstate)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 
-## 💬 Let's Connect
+## 🔭 Current Initiatives
+
+Currently, I'm building two applications and (continuing) learning a language:
+
+- LucidLog is an innovative journaling tool designed to unlock the mysteries of your dreams. Built on Ruby on Rails, Inertia, and React, the app is a passion project born from my wife's enjoyment of analyzing her dreams. The goal is to use AI to analyze, summarize, and provide further details on a dream that a user has journaled. Even if the AI hallucinates, who cares! It is just your dreams after all; the mind is exploring itself.
+- HiveTool (name TBD) empowers beekeeper's who are growing apiaries through smart management and passionate care! The application is build on Laravel, Inertia, and React and is a dogfooding application for myself and my apiary. Honey bees are the backbone of American agriculture in many ways, so an application that supports these tiny powerhouses is a win. The application has several features including an inspection scheduler, hive health metrics and monitoring, weather and task notifications, and general beekeeping guides.
+
+## 📫 Connect With Me
 
 I'm always eager to connect with fellow developers, collaborate on exciting projects, or discuss the latest trends in technology. Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/devanb) or here on [GitHub](https://github.com/devanb).
 
@@ -28,12 +35,7 @@ I'm always eager to connect with fellow developers, collaborate on exciting proj
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 ## 📝 Blog Posts
@@ -45,10 +47,6 @@ of technology. Can't wait to hear what you think!
 
 - [Improving Collaboration in a Remote Team](https://jodylecompte.com/articles/improving-remote-collaboration)
 - [Your Audience Wants  You To Win](https://jodylecompte.com/articles/your-audience-wants-you-to-win)
-
-## 💬 Let's Connect!
-
-I'm always eager to connect with fellow developers, collaborate on exciting projects, or discuss the latest trends in technology. Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/jodylecompte) or [Bluesky](https://bsky.app/profile/jodylecompte.com).
 
 -->
 
