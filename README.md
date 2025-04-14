@@ -32,7 +32,11 @@ Currently, I'm building two applications and (continuing) to learn a foreign lan
 
 ## 📫 Connect With Me
 
-I'm always eager to connect with fellow developers, collaborate on exciting projects, or discuss the latest trends in technology. Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/devanb) or here on [GitHub](https://github.com/devanb).
+I'm always eager to connect with fellow developers, collaborate on exciting projects, or discuss the latest trends in technology. Feel free to reach out to me via a few locations:
+- [LinkedIn](https://linkedin.com/in/devanb)
+- [GitHub](https://github.com/devanb)
+- [Email](mailto:devan@devanb.us)
+- [Personal Website](https://devanb.us)
 
 <!--
 Here are some ideas to get you started:
