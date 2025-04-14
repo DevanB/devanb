@@ -34,8 +34,9 @@ Currently, I'm building two applications and (continuing) to learn a foreign lan
 
 I'm always eager to connect with fellow developers, collaborate on exciting projects, or discuss the latest trends in technology. Feel free to reach out to me via a few locations:
 - [LinkedIn](https://linkedin.com/in/devanb)
-- [GitHub](https://github.com/devanb)
+- [X](https://x.com/devanbeitel)
 - [Email](mailto:devan@devanb.us)
+- [GitHub](https://github.com/devanb)
 - [Personal Website](https://devanb.us)
 
 <!--
