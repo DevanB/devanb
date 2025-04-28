@@ -2,7 +2,7 @@
 
 I’m Devan, a passionate leader, developer, and designer based in sunny Orlando, Florida.
 
-NOTE: As of April 2025, I am seeking employment in the software engineering leader or upper-level (staff, principal) engineer space. You can find my resume on my [here](https://devanb.us/resume.pdf). Please [reach out via email](mailto:devan@devanb.us) or [LinkedIn](https://www.linkedin.com/in/devanb/) if you are interested!
+NOTE: As of April 2025, I am seeking employment. I have experience as a software engineering leader and upper-level (staff, principal) engineer. Take a look [at my resume](https://devanb.us/resume.pdf), or [reach out via email](mailto:devan@devanb.us) / [LinkedIn](https://www.linkedin.com/in/devanb/) if you are interested!
 
 ## 🙋 About Me
 
