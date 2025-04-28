@@ -40,7 +40,7 @@ I'm always eager to connect with fellow developers, collaborate on exciting proj
 - [GitHub](https://github.com/devanb)
 - [Personal Website](https://devanb.us)
 
-## Employer?
+## 🤝🏻 Employer?
 
 > [!IMPORTANT]  
 > <a href="https://devanb.us/resume.pdf" download>Download my resume</a>
