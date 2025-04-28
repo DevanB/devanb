@@ -34,11 +34,11 @@ Currently, I'm building two applications and (continuing) to learn a foreign lan
 
 I'm always eager to connect with fellow developers, collaborate on exciting projects, or discuss the latest trends in technology. Feel free to reach out to me via a few locations:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://linkedin.com/in/devanb)
-- [X](https://x.com/devanbeitel)
-- [Email](mailto:devan@devanb.us)
-- [GitHub](https://github.com/devanb)
-- [Personal Website](https://devanb.us)
+![](https://img.shields.io/badge/-LinkedIn-blue?link=https://www.linkedin.com/in/devanb/)
+![](https://img.shields.io/badge/-black?logo=X&logoColor=white&link=https://x.com/devanbeitel)
+![](https://img.shields.io/badge/-GitHub-grey?logo=GitHub&logoColor=white&link=https://github.com/DevanB)
+![](https://img.shields.io/badge/-Email-red?logo=Mailgun&logoColor=white&link=mailto:devan@devanb.us)
+![](https://img.shields.io/badge/-Personal_Website-purple?link=https://devanb.us/)
 
 ## 🤝🏻 Employer?
 
