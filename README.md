@@ -33,10 +33,11 @@ Currently, I'm building two applications and (continuing) to learn a foreign lan
 - [xstate-examples](https://github.com/DevanB/xstate-examples) showcases practical examples of statechart-based solutions, using Xstate. The goal is to show how statecharts and finite-state machines are not as complicated as one might think. xstate-examples does this by showcasing how to build solutions to common web and mobile app problems within React, Vue, and Svelte.
 - Mandarin Chinese may sound crazy, but my goal is to be fluent in the three main business languages: English (native proficiency), Spanish (working fluency), and Mandarin Chinese (elementary proficiency). I took Mandarin while in college, and have resolved that 2025 is the "Year of Chinese Learning". I'm hoping to pass the HSK-1 this year.
 
-## 📝 Blog Posts
+## 📝 Musings
 
-I'd love for you to check out my latest blog posts. I'm passionate about all things tech, and I enjoy writing about various topics such as leadership, design, accessibility, and many more random things!
+I'm passionate about all things tech, and I enjoy writing about various topics such as leadership, design, accessibility, and many more random things! I'd love for you to check out my recent articles. If you want to read more, [check out the full archive](https://devanb.us/articles). 
 
+- [Perfection Slows You Down](https://devanb.us/articles/perfection-slows-you-down/)
 - [Should MBAs be involved in software planning?](https://devanb.us/articles/mbas-software-planning/)
 - [Nuclear Power Deep Dive Series](https://devanb.us/articles/nuclear-power-deep-dive-series/)
 
