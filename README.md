@@ -9,7 +9,7 @@ I’m Devan, a passionate leader, developer, and designer based in sunny Orlando
 
 ## 🙋 About Me
 
-- 12+ years software development experience, with 7+ years in leadership and management roles
+- 13+ years software development experience, with 8+ years in leadership and management roles
 - Strong communication skills, with experience hiring, directing, and mentoring internationally distributed engineering teams
 - Experience overseeing managers, leaders, and individual contributors as well as budgets in excess of $2 million.
 - Proven, hands-on experience with development, continuous integration pipelines, and deployment of production workloads in AWS as well as the Apple App Store and Google Play Store.
